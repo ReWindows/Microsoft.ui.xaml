@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Microsoft.UI.Xaml.dll",
+  "latest": "2693625272-16232D22E812911F17AC5497546227D8-1",
+  "builds": [
+    {
+      "key": "2693625272-16232D22E812911F17AC5497546227D8-1",
+      "timestamp": "2693625272",
+      "pdb_guid": "16232D22E812911F17AC5497546227D8",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2693625272-16232D22E812911F17AC5497546227D8-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}

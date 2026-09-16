@@ -1,0 +1,18 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from Microsoft.UI.Xaml.dll by Windissect. 3 member(s).
+namespace winrt::Windows::UI::Xaml::Controls {
+class Grid {
+public:
+    // Category: Ctor | Source: PDB Internal
+    // Symbol: ??0Grid@Controls@Xaml@UI@Windows@winrt@@QEAA@AEBU012345@@Z
+    Grid(WindissectOpaque const &);
+    // Category: Ctor | Source: PDB Internal
+    // Symbol: ??0Grid@Controls@Xaml@UI@Windows@winrt@@QEAA@XZ
+    Grid();
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1Grid@Controls@Xaml@UI@Windows@winrt@@QEAA@XZ
+    ~Grid();
+};
+} // namespace winrt::Windows::UI::Xaml::Controls

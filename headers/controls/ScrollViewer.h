@@ -1,0 +1,15 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from Microsoft.UI.Xaml.dll by Windissect. 2 member(s).
+namespace winrt::Windows::UI::Xaml::Controls {
+class ScrollViewer {
+public:
+    // Category: Ctor | Source: PDB Internal
+    // Symbol: ??0ScrollViewer@Controls@Xaml@UI@Windows@winrt@@QEAA@AEBU012345@@Z
+    ScrollViewer(WindissectOpaque const &);
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1ScrollViewer@Controls@Xaml@UI@Windows@winrt@@QEAA@XZ
+    ~ScrollViewer();
+};
+} // namespace winrt::Windows::UI::Xaml::Controls
